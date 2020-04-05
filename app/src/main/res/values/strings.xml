@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nombre">Name</string>
+    <string name="info">Description of contact</string>
+    <string name="buscar_button">Search</string>
+    <string name="agregar_button">Add new</string>
+</resources>
